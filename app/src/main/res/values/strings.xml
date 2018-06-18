@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="aboutme">Nama : Fala Syam Fitrakhul Akbar \nTTL : 6 Januari 2001 \nUmur : 17 Tahun \nSekolah : SMK Negeri 1 Bangsri</string>
+    <string name="sosmed">Facebook : Fala Syam Fitrakhul Akbar \nInstagram : fala.syam \nTwitter : @falasyam \nKaskus : fala19
+        \nTelegram : t.me/falasyam \nWhatsApp : +6282242645601 \nGitHub : falasyam \nGitlab : falasyam</string>
+    <string name="nv_open">open</string>
+    <string name="nv_close">close</string>
+</resources>
